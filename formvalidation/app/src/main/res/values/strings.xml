@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Form Validation</string>
+    <string name="name_label">Name:</string>
+    <string name="phone_label">Phone:</string>
+    <string name="email_label">Email:</string>
+    <string name="city_label">City:</string>
+    <string name="city_prompt">Select a city</string>
+    <string-array name="city">
+        <item>Delhi</item>
+        <item>Mumbai</item>
+        <item>Kolkata</item>
+        <item>Chennai</item>
+        <item>Bangalore</item>
+   </string-array>
+    <string name="validate_button_label">Validate</string>
+    <string name="field_blank_error_msg">This field cannot be blank !</string>
+    <string name="number_error_msg">Enter a valid number !</string>
+    <string name="email_error_msg">Enter a valid email !</string>
+    <string name="name_error_msg">Name field can contain only alphabets !</string>
+</resources>
